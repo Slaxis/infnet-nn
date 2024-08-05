@@ -1,0 +1,33 @@
+ROTEIRO APRESENTAÇÃO DEEP LEARNING 11/10
+> Membros do Grupo
+
+> Problema de Negócio
+>> Qual o tipo de problema (Classificação, Regressão, Agrupamento)
+
+> Base de Dados
+>> tamanho da amostra
+>> Colunas / Features / Atributos
+
+> Análise Exploratória
+>> Distribuição de Y
+>> Distribuição de X
+>> Existem Atributos mais relevantes ou menos relevantes? Justifique.
+>> Qual a representação escolhida? (colunas consideradas)
+
+> Treinamento
+>> Qual a topologia escolhida? Referências?
+>> Como foram encontrados / ajustados os hiperparâmetros do modelo.
+>>> Single Split, K folds, Full Learning, Bootstraping, etc.
+>> Comparar um modelo baseline com um modelo mais complexo!
+
+> Validação
+>> Qual figura de mérito obtida no treinamento?
+>> Qual o melhor modelo?
+>> Como ficou o melhor modelo em relação ao baseline?
+>> Gráficos para explicar o resultado.
+>>> Convergência do treinamento, Seleção de Hiperparâmetro, Matriz de Confusão / Análise do Resíduo.
+>>> analisar os erros de classificação ou residuo alto.
+>> Conclusão / Próximos passos
+
+> Deployment (Opcional)
+>> Como o modelo foi encapsulado?
