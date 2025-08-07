@@ -16,6 +16,9 @@ ROTEIRO APRESENTAÇÃO DEEP LEARNING 11/10
 
 > Treinamento
 >> Qual a topologia escolhida? Referências?
+
+---------------------------------------------------
+
 >> Como foram encontrados / ajustados os hiperparâmetros do modelo.
 >>> Single Split, K folds, Full Learning, Bootstraping, etc.
 >> Comparar um modelo baseline com um modelo mais complexo!
